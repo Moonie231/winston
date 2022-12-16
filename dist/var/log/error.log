@@ -1,0 +1,11 @@
+[2022-12-16 13:40:57] [[31merror[39m] Error: error test winston
+    at C:\Users\user\WebstormProjects\winston\dist\index.js:14:15
+    at Layer.handle [as handle_request] (C:\Users\user\WebstormProjects\winston\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\user\WebstormProjects\winston\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\user\WebstormProjects\winston\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\user\WebstormProjects\winston\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\user\WebstormProjects\winston\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\user\WebstormProjects\winston\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\user\WebstormProjects\winston\node_modules\express\lib\router\index.js:280:10)
+    at jsonParser (C:\Users\user\WebstormProjects\winston\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\user\WebstormProjects\winston\node_modules\express\lib\router\layer.js:95:5)
